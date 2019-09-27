@@ -13,4 +13,5 @@ https://github.com/ElderGnomeChild/SoftwareEngineering<br>
 	<br><br>This assignment is relevant for my portfolio because it entails the evolution of my back-end experience through use of Django as well as some basic website creation and game design. I used Django to create a login system with two different user types: teachers and students. Teachers can see students' progress as well as add students to their class. Students can play the math game and see their previous progress. I used Unity  and C# to create the game that the students would play. The 3d and movement graphics were pulled from the Unity asset store and the 2d sprites were drawn by one of my group members. This project was my first experience with Django and Unity as well as my first experience with web hosting.
   
 <h1>Resume</h1>
-My most current resume can be found here: 
+My most current resume can be found here:
+https://github.com/ElderGnomeChild/Portfolio/blob/master/Resume.pdf
