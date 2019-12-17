@@ -4,7 +4,11 @@ Portfolio to showcase my skills and previous projects. Planning on moving this t
 <h1>Projects</h1>
 <h2>Babysitter Portal</h2>
 <a href="https://github.com/ElderGnomeChild/ParkCitySitters" target="_blank">Repository</a><br>
-	In my Web Apps class, my group of three developers and two designers worked with a local small business to develop a web app that would suit their needs. The idea was to create a system that would allow the owner to post jobs on the website so that babysitters could claim them without further action from the owner.
+	In my Web Apps class, our group of three developers and two designers worked with a local small business to develop a web app that would suit their needs. The idea was to create a system that would allow the owner to post jobs on the website so that babysitters could claim them without further action from the owner. We used Django for our back-end, MariaDB for our database, Apache for our web server and Mod WSGI for our middleware. The project was hosted on a virtual machine on Westminster's computer science server.
+
+<br><h2>Chatroom</h2>
+<a href="https://github.com/ElderGnomeChild/chat-server" target="_blank">Repository</a><br>
+	For my Computer Networks class, the final project was to design a protocol as a class and build a chatroom client and server. The requirements for the chatroom were that it would be able to handle public messages with multiple clients connected simultaneously and allow users to privately message each other. I did this assignment with a partner and we wrote both the client and the server in Java.
 
 <br><h2>Waste Project</h2>
 <a href="https://github.com/ElderGnomeChild/wasteproject" target="_blank">Repository</a><br>
