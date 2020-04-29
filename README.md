@@ -1,11 +1,11 @@
 # Daniel Lier - Portfolio
 Portfolio to showcase my skills and previous projects.
 
-<h1>Capstone Project</h1>
+<br><h1>Capstone Project</h1>
 <a href="https://github.com/ElderGnomeChild/SeniorProject" target="_blank">Repository</a><br>
 	For my Computer Science program capstone project, I made a goal-tracking Web App. Available at www.frozenwater.app, my project allows users to create goals and subtasks and track whether they've completed them or not. The app also interacts with Canvas, the program Westminster uses for classes, assignments, announcements, and grades. This was my first experience developing something that uses and external API. It is also the most feature-complete web app I've ever created. The app is equipped with authentication and authorization that disallows users from seeing anything they're not supposed to see. I used Django as my backend and Bootstrap for CSS. I hosted the project on PythonAnywhere.
 
-<h1>Other Projects</h1>
+<br><h1>Other Projects</h1>
 <h2>Babysitter Portal</h2>
 <a href="https://github.com/ElderGnomeChild/ParkCitySitters" target="_blank">Repository</a><br>
 	In my Web Apps class, our group of three developers and two designers worked with a local small business to develop a web app that would suit their needs. The idea was to create a system that would allow the owner to post jobs on the website so that babysitters could claim them without further action from the owner. We used Django for our back-end, MariaDB for our database, Apache for our web server and Mod WSGI for our middleware. The project was hosted on a virtual machine on Westminster's computer science server.
