@@ -28,5 +28,4 @@ Portfolio to showcase my skills and previous projects.
 	<br><br>This is the only project here on my portfolio where there was some outside hardware involved. The addition of this external piece ramped up the problem solving aspect of this project significantly. There's a whole new system to troubleshoot when hardware is added to the mix. This project was also big for my understanding of the computer system. Working with a Raspbery Pi, I learned how much of a comuter can be taken for granted as something that's just part of the base device. We had to install the OS on an SD card and get a mouse, keyboard, and monitor to even use the Pi before we could start programming. Overall this project was unique from anything else I've done at school and was a lot of fun.
 	
 <br><h1>Resume</h1>
-My most current resume can be found here:
-https://github.com/ElderGnomeChild/Portfolio/blob/master/Resume.pdf
+My most current resume can be found <a href="https://github.com/ElderGnomeChild/Portfolio/blob/master/Resume.pdf" target="_blank">here</a>.
