@@ -5,6 +5,7 @@ Portfolio to showcase my skills and previous projects.
 <h2>Babysitter Portal</h2>
 <a href="https://github.com/ElderGnomeChild/ParkCitySitters" target="_blank">Repository</a><br>
 	In my Web Apps class, our group of three developers and two designers worked with a local small business to develop a web app that would suit their needs. The idea was to create a system that would allow the owner to post jobs on the website so that babysitters could claim them without further action from the owner. We used Django for our back-end, MariaDB for our database, Apache for our web server and Mod WSGI for our middleware. The project was hosted on a virtual machine on Westminster's computer science server.
+	<br><br>This project heavily developed my group working and problem solving skills. We were a large group of students in different majors working with a client who has a real business with real needs. Communication became very important as the project progressed and challenges arose. This semester-long project was perhaps the most intense and lasting learning experience I've had at Westminster. I don't think I'll ever forget the time I spent with that group on this project.
 
 <br><h2>Chatroom</h2>
 <a href="https://github.com/ElderGnomeChild/chat-server" target="_blank">Repository</a><br>
