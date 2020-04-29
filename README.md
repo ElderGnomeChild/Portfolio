@@ -1,5 +1,5 @@
 # Daniel Lier - Portfolio
-Portfolio to showcase my skills and previous projects. Planning on moving this to its own website soon.
+Portfolio to showcase my skills and previous projects.
 
 <h1>Projects</h1>
 <h2>Babysitter Portal</h2>
